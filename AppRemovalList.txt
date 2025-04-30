@@ -5,8 +5,8 @@ Prefix item with # to mark it for removal
 #Microsoft.BingWeather
 Microsoft.DesktopAppInstaller
 #Microsoft.GamingApp
-Microsoft.GetHelp
-Microsoft.Getstarted
+#Microsoft.GetHelp
+#Microsoft.Getstarted
 Microsoft.HEIFImageExtension
 Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
